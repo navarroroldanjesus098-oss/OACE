@@ -22,6 +22,8 @@ C:\iso\p1\in\e1>md e2
 C:\iso\p1\in\e1>cd e2
 
 C:\iso\p1\in\e1\e2>
-```img width="978" height="508" alt="imagen" src="https://github.com/user-attachments/assets/28f73305-836a-4555-8353-8ee32efab910" />
+```
+
+img width="978" height="508" alt="imagen" src="https://github.com/user-attachments/assets/28f73305-836a-4555-8353-8ee32efab910" />
 
 

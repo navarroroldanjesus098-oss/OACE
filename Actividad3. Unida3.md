@@ -9,3 +9,10 @@ Ejercicio 1
 <img width="269" height="54" alt="imagen" src="https://github.com/user-attachments/assets/1cad1abc-56b6-46f8-93bd-e5a86efe45c2" />
 <img width="311" height="48" alt="imagen" src="https://github.com/user-attachments/assets/b2150040-3e53-451b-bab0-beaeed321e38" />
 <img width="311" height="47" alt="imagen" src="https://github.com/user-attachments/assets/c4e11844-35bd-4e5f-8f4d-c91b6c22393b" />
+<img width="480" height="470" alt="imagen" src="https://github.com/user-attachments/assets/8488edf1-8f82-48ed-a5d5-1eba78158b95" />
+<img width="601" height="305" alt="imagen" src="https://github.com/user-attachments/assets/18cf2887-bfd6-408b-91da-506b8fe7c484" />
+
+Ejercicio 8
+
+a. El asterisco * representa cualquier cantidad de caracteres dentro de un nombre de archivo o carpeta. Se usa para buscar o listar varios archivos que cumplen un patron.
+i.

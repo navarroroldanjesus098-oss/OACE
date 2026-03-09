@@ -16,3 +16,7 @@ Ejercicio 8
 
 a. El asterisco * representa cualquier cantidad de caracteres dentro de un nombre de archivo o carpeta. Se usa para buscar o listar varios archivos que cumplen un patron.
 i.
+
+<img width="601" height="403" alt="imagen" src="https://github.com/user-attachments/assets/8af5f55c-7ed7-4ce6-8824-f973f0e7e158" />
+
+ii

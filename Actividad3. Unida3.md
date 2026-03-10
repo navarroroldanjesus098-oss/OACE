@@ -81,3 +81,5 @@ F7 (Ortografía): Abre la ventana de revisión ortográfica y gramatical en Micr
 
 <img width="657" height="716" alt="imagen" src="https://github.com/user-attachments/assets/6e531168-83d5-478b-9b89-b903380468ee" />
 Sirve para listar todos los comandos escritos previamente durante la sesión actual.
+
+k,
